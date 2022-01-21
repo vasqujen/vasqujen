@@ -1,4 +1,3 @@
-- 📫 How to reach me ...
 
 <h2>Hi! 👋</h2>
 
