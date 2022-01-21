@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Jeniffer Vasquez
-- 👀 I’m interested in ... learning UX/IX
-- 🌱 I’m currently learning ... Software Engineering, Design & Analysis Algorithms
 - 📫 How to reach me ...
 
-<!---
-vasqujen/vasqujen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Hi! 👋</h2>
+
+I'm Jeniffer Vasquez! 
+
+- <i>Currently:</i> Undergraduate CS Student at CUNY Queens College. 
+
+<h2>💻 I'm Currently Learning</h2>
+
+__CUNY Queens College__
+- CS320 Theory of Computation
+- CS323 Design & Analysis Algorithms
+- CS331 Database Systems
+- CS370 Software Enginneering
