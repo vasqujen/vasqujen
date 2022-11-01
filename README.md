@@ -8,7 +8,7 @@ I'm Jeniffer Vasquez!
 <h2>💻 I'm Currently Learning</h2>
 
 __CUNY Queens College__
-- CS320 Theory of Computation
+- CS381 Genetic Algorithms
 - CS323 Design & Analysis Algorithms
-- CS331 Database Systems
-- CS370 Software Enginneering
+- CS355 Internet & Web Technologies
+- CS381 Python
